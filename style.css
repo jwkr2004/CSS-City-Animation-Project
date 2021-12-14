@@ -12,12 +12,12 @@
 }
 
 body{
-    background-image: url(/images/city-background.png);
+    background-image: url(images/city-background.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -35%;
     background-color: white;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .bird{
